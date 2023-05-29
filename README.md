@@ -7,6 +7,7 @@ Project of a remote controller based on ESP8266 Wemos utilizing WIFI and MQTT.
   </a>
 </p>
 Watch the video to see the MQTT remote in action
+
 ![MQTT](https://github.com/TanskiSzymon/MQTT_Controller/assets/108231030/f5ae6941-926d-4f62-9072-bbf3b155f4e1)
 ![front](https://github.com/TanskiSzymon/MQTT_Controller/assets/108231030/e8af84f0-9d2e-427a-996b-e50e665c60f2)
 ![inside](https://github.com/TanskiSzymon/MQTT_Controller/assets/108231030/29b71b72-12d5-42c9-8ccd-9be680eccd92)
