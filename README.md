@@ -4,6 +4,12 @@ This is a project focused on developing a remote controller based on the ESP8266
 Watch the video below to see the MQTT remote in action:
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=ua9jz4NaFaA">
+     <img src="https://img.youtube.com/vi/ua9jz4NaFaA/0.jpg" alt="Watch the video.">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=-ZEsa-9d1Jg">
      <img src="https://img.youtube.com/vi/-ZEsa-9d1Jg/0.jpg" alt="Watch the video.">
   </a>
